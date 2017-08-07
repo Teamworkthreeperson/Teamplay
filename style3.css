@@ -1,0 +1,23 @@
+a{
+	text-decoration: none;
+	color: #37588A;
+}
+
+body{
+	font-size: 35px;
+}
+
+.comment_by{
+	color: #66668E;
+}
+.footer_st{
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.footer_inf{
+	color: red;
+}
+
+.autor_name{
+
+}
